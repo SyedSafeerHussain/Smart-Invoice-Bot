@@ -1,0 +1,3 @@
+Invoice #,Date,Bill To,Ship To,PO Number,Due Date,Balance Due,Total,Payment Terms
+INV-1001,"August 4, 2025",Safeer Hussain,Rahim Yar Khan,PO-2455,"August 18, 2025",1500.00,1500.00,Net 14
+PO-2455,"August 18, 2025",Safeer Hussain,Rahim Yar Khan,1500.00,1500.00
